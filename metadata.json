@@ -1,0 +1,6 @@
+{
+  "name": "TimeTrack",
+  "description": "Personal daily planner, timetable builder, task tracker, and AI schedule assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
